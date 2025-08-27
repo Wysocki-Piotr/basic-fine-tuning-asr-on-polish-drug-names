@@ -1,75 +1,75 @@
-Ibuprom
-Metafen
-Nurofen Forte
-Dolgit
-Bisocard
-Bibloc
-Concor
-Bisoratio
-Sobycor
-Coronal
-Prestilol
-Bisoprolol
-Perindopryl
-Ramipryl
-Amlodipina
-Hydrochlorotiazyd
-Losartan
-Avamina
-Formetic
-Glucophage XR
-Metformax
-Xigduo
-Synjardy
 Actarosin
+ActiFolin
+Aliness Kwas Foliowy
+Amlodipina
+Amoksycylina
+Amotaks
+ApoD3
 Arterios
-Metformina
-Sitagliptyna
-Linagliptyna
-Liraglutyd
-Dapagliflozyna
+Augmentin
+Avamina
+Biaron D
+Bibloc
+Bisakodyl
+Bisocard
+Bisoprolol
+Bisoratio
+Concor
+Coronal
 Crestor
 Crosuvo
+D-Vitum Forte
+Dapagliflozyna
+Devikap
+Dolgit
+Folik
+Formetic
+Glucophage XR
+Hydrochlorotiazyd
+Ibuprom
+Ibuvit D3
+KFD Omega 3
+Laktuloza
+Linagliptyna
+Liraglutyd
+Losartan
+Macromax
+Melatonina
+Metafen
+Metformax
+Metformina
+Mirtazapina
+Nurofen Forte
+Olicaps Witamina D3
+Omeprazol
+Oriovit-D 1000
+Ospen 1000
+OstroVit Omega 3
+Pantoprazol
+Perindopryl
+Prestilol
+Ramipryl
 Ridlip
 Romazic
 Rosucard
 Rosutrox
-Roswera
-Suvardio
-Zahron
-Zaranta
 Rosuvastatin Medical Valley
-Vigantoletten
-Vigantol
-Ibuvit D3
-Biaron D
-ApoD3
-Devikap
-Witamina D3 Forte
-Oriovit-D 1000
+Roswera
+Sitagliptyna
+Sobycor
+Sukralfat
+Sumamed
+Suvardio
+Synjardy
+Trazodon
 Vigalex Bio
 Vigalex Forte
 Vigalex Max
-Ospen 1000
-Amotaks
-Augmentin
-Macromax
-Sumamed
-Amoksycylina
-Omeprazol
-Pantoprazol
-Laktuloza
-Bisakodyl
-Sukralfat
-Folik
-ActiFolin
-Aliness Kwas Foliowy
-D-Vitum Forte
-Olicaps Witamina D3
-OstroVit Omega 3
-KFD Omega 3
+Vigantol
+Vigantoletten
+Witamina D3 Forte
+Xigduo
+Zahron
+Zaranta
 Zolpidem
 Zopiklon
-Melatonina
-Trazodon
-Mirtazapina
