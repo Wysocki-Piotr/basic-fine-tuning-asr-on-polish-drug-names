@@ -81,10 +81,13 @@ import torch
 import torchaudio
 from transformers import WhisperForConditionalGeneration, WhisperProcessor
 
+language = "pl"
+task = "transcribe"
+
 processor = WhisperProcessor.from_pretrained("pwysoc/medical-polish-drugs-whisper")
 model = WhisperForConditionalGeneration.from_pretrained("pwysoc/medical-polish-drugs-whisper")
 
-waveform, sr = torchaudio.load("file_with_medical_name.wav")
+waveform, sr = torchaudio.load("/content/Actarosin_0002_male.wav")
 SAMPLING_RATE = 16000
 
 if sr != SAMPLING_RATE:
@@ -105,20 +108,14 @@ initial_prompt = (
     "To nagranie jest fragmentem z wywiadu medycznego. "
     "Zawiera nazwy leków takie jak Paracetamol, Ibuprom."
 )
-prompt_ids = processor.tokenizer(
-    initial_prompt,
-    add_special_tokens=False,
-    return_tensors="pt"
-).input_ids
+decoder_input_ids = None
 
-forced_ids = torch.tensor([[tok_id for _, tok_id in forced_decoder_ids]])
-decoder_input_ids = torch.cat([prompt_ids, forced_ids], dim=1)
-
-decoder_input_ids = prompt_ids
-
-predicted_ids = model.generate(input_features, decoder_input_ids=decoder_input_ids)[0]
-transcription = processor.decode(predicted_ids, skip_special_tokens=True)
-
+prompt_ids = processor.tokenizer( initial_prompt, add_special_tokens=False, return_tensors="pt" ).input_ids 
+forced_decoder_ids = processor.get_decoder_prompt_ids(language=language, task=task)
+forced_ids = torch.tensor([[tok_id for _, tok_id in forced_decoder_ids]]) 
+decoder_input_ids = torch.cat([prompt_ids, forced_ids], dim=1) 
+predicted_ids = model.generate( input_features, decoder_input_ids=decoder_input_ids)[0] 
+transcription = processor.decode(predicted_ids, skip_special_tokens=True) 
 print(transcription)
 ```
 ## Further Work
