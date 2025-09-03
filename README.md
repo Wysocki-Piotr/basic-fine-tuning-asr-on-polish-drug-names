@@ -87,7 +87,7 @@ task = "transcribe"
 processor = WhisperProcessor.from_pretrained("pwysoc/medical-polish-drugs-whisper")
 model = WhisperForConditionalGeneration.from_pretrained("pwysoc/medical-polish-drugs-whisper")
 
-waveform, sr = torchaudio.load("/content/Actarosin_0002_male.wav")
+waveform, sr = torchaudio.load("file_with_polish_drug.wav")
 SAMPLING_RATE = 16000
 
 if sr != SAMPLING_RATE:
