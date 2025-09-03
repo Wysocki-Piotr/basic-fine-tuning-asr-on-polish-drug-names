@@ -1,0 +1,136 @@
+Transkrypcja pełna: powinna spróbować kuracji a starosinem.
+powinna: confidence=0.61a: confidence=0.57
+Transkrypcja pełna: Możesz kupić w aptece Acetifolin. Powinien pomóc.
+Acetifolin.: confidence=0.44
+Transkrypcja pełna: Na profilaktykę przepiszecie alinę z kwas foliowy.
+Transkrypcja pełna: Na recepcie zapiszą amlodipiny.
+Transkrypcja pełna: Na anginę przepisze ci amoxycylinę.
+Na: confidence=0.23ci: confidence=0.55
+Transkrypcja pełna: Jeśli masz Andinę dobrze sprawdza się Amotax.
+Andinę: confidence=0.56dobrze: confidence=0.68sprawdza: confidence=0.65Amotax.: confidence=0.66
+Transkrypcja pełna: I will assign vitamin D to D3 for your choice.
+I: confidence=0.20will: confidence=0.43assign: confidence=0.22vitamin: confidence=0.35to: confidence=0.41D3: confidence=0.44for: confidence=0.26your: confidence=0.10choice.: confidence=0.37
+Transkrypcja pełna: Możesz kupić w aptecję arteries? Powinien pomóc.
+Możesz: confidence=0.46arteries?: confidence=0.33
+Transkrypcja pełna: I will write the recipe in English as the next one.
+I: confidence=0.16will: confidence=0.64write: confidence=0.33the: confidence=0.20recipe: confidence=0.06in: confidence=0.57English: confidence=0.44as: confidence=0.33the: confidence=0.24next: confidence=0.27one.: confidence=0.28
+Transkrypcja pełna: Na recepcie zapiszę awaminę.
+Transkrypcja pełna:  Na niedobór witaminy D przepiszę ci biaron D.
+: confidence=0.50ci: confidence=0.63biaron: confidence=0.56D.: confidence=0.31
+Transkrypcja pełna: Na recepcie zapiszę bibliocjeko lek na nadciśnienie.
+bibliocjeko: confidence=0.51
+Transkrypcja pełna: Zalecam bisakody, bo dobrze działa NASGAGA.
+NASGAGA.: confidence=0.63
+Transkrypcja pełna: Przepiszę ci bisocet, bo zwykle dobrze działa.
+ci: confidence=0.49bisocet,: confidence=0.69
+Transkrypcja pełna: Powinna spróbować kuracji bisoprololem.
+bisoprololem.: confidence=0.70
+Transkrypcja pełna: Zalecam Bisorakio, bo dobrze działa na nadciśnienia.
+Bisorakio,: confidence=0.68
+Transkrypcja pełna: should try to cure the cancer.
+should: confidence=0.20try: confidence=0.68to: confidence=0.56cure: confidence=0.67the: confidence=0.29cancer.: confidence=0.42
+Transkrypcja pełna: On the recipe, I will write down "CORONAL".
+On: confidence=0.25recipe,: confidence=0.58I: confidence=0.37down: confidence=0.53"CORONAL".: confidence=0.45
+Transkrypcja pełna: The recipe will be in the description.
+The: confidence=0.09recipe: confidence=0.68will: confidence=0.38be: confidence=0.69in: confidence=0.12description.: confidence=0.35
+Transkrypcja pełna: Na recepcie zapiszę crossowo.
+crossowo.: confidence=0.42
+Transkrypcja pełna: The recipe will write down Devitum Forte as a light prophylactics.
+The: confidence=0.27will: confidence=0.11write: confidence=0.20down: confidence=0.30Devitum: confidence=0.46Forte: confidence=0.56a: confidence=0.59light: confidence=0.39
+Transkrypcja pełna: Jeśli masz skrzydce typu drugiego dobrze sprawdza się da panu Lifrozyna.
+skrzydce: confidence=0.50dobrze: confidence=0.64da: confidence=0.34Lifrozyna.: confidence=0.54
+Transkrypcja pełna: Powinnaś przyjmować dewikap na niedobór witaminy D.
+dewikap: confidence=0.44
+Transkrypcja pełna: You can buy it in the app "TC Dolgit"
+You: confidence=0.44it: confidence=0.32in: confidence=0.48the: confidence=0.16app: confidence=0.11"TC: confidence=0.29Dolgit": confidence=0.65
+Transkrypcja pełna: Na profilaktykę przepiszę ci folik.
+Na: confidence=0.19przepiszę: confidence=0.56ci: confidence=0.50
+Transkrypcja pełna: If you have type 2 diabetes, Formetiz works well.
+type: confidence=0.442: confidence=0.53diabetes,: confidence=0.50Formetiz: confidence=0.38works: confidence=0.33
+Transkrypcja pełna: The recipe says that the second type of glucose is used in X-ray as a second type of sugar syrup.
+The: confidence=0.31says: confidence=0.26that: confidence=0.17the: confidence=0.13second: confidence=0.23glucose: confidence=0.50is: confidence=0.19used: confidence=0.18in: confidence=0.24X-ray: confidence=0.29as: confidence=0.39second: confidence=0.10type: confidence=0.60sugar: confidence=0.28syrup.: confidence=0.33
+Transkrypcja pełna: Jeśli masz nadciśnienie, dobrze sprawdza się hydrochlorociazyt.
+hydrochlorociazyt.: confidence=0.62
+Transkrypcja pełna: Na recepcie zapiszę i buprom jako lek na ból i stan zapalny.
+i: confidence=0.59buprom: confidence=0.67jako: confidence=0.40
+Transkrypcja pełna: I will write "imbuvidd3" on the recipe.
+I: confidence=0.34"imbuvidd3": confidence=0.49
+Transkrypcja pełna: In your case, it is best to check KFD omega 3.
+In: confidence=0.27it: confidence=0.52is: confidence=0.45KFD: confidence=0.61omega: confidence=0.46
+Transkrypcja pełna: Przepisze Ci laktulozę, bo zwykle dobrze działa.
+Ci: confidence=0.45
+Transkrypcja pełna: Jeśli masz cukrzycę typu drugiego dobrze sprawdza się olina gliptyna.
+dobrze: confidence=0.56
+Transkrypcja pełna: możesz kupić w aptecjon Lira Glutid powinien pomóc.
+aptecjon: confidence=0.64Lira: confidence=0.55Glutid: confidence=0.46powinien: confidence=0.69
+Transkrypcja pełna: Na nadciśnienie przepisze Ci losartan.
+Ci: confidence=0.55
+Transkrypcja pełna: Na Andinę przepisze Ci macromax.
+Andinę: confidence=0.70Ci: confidence=0.45macromax.: confidence=0.59
+Transkrypcja pełna: Powinnaś przyjmować melatoninę na bezsenność.
+Transkrypcja pełna: 
+Transkrypcja pełna: Na cukrzycę typu drugiego przepiszę Ci Metformax.
+drugiego: confidence=0.63Ci: confidence=0.57
+Transkrypcja pełna: Na cukrzycę typu drugiego przepiszę ci metforminę.
+drugiego: confidence=0.68ci: confidence=0.36
+Transkrypcja pełna: Zalecam Mifta za pinę, bo dobrze działa na bezsenność.
+Mifta: confidence=0.63za: confidence=0.59pinę,: confidence=0.61bezsenność.: confidence=0.68
+Transkrypcja pełna: I will write to you Nurofen Forte, because it usually works well.
+will: confidence=0.40write: confidence=0.17to: confidence=0.25Nurofen: confidence=0.37Forte,: confidence=0.66it: confidence=0.54
+Transkrypcja pełna: Na recepcie zapiszę o liczb z witamina D3 jako lekkna profilaktyka.
+o: confidence=0.47liczb: confidence=0.58z: confidence=0.70lekkna: confidence=0.40
+Transkrypcja pełna: It's best to check the map on the map.
+It's: confidence=0.34to: confidence=0.47check: confidence=0.67the: confidence=0.16map: confidence=0.04on: confidence=0.10the: confidence=0.53map.: confidence=0.14
+Transkrypcja pełna: If you have a problem with vitamin D, check the D1000 theory.
+have: confidence=0.52a: confidence=0.47problem: confidence=0.10check: confidence=0.20the: confidence=0.26D1000: confidence=0.53theory.: confidence=0.26
+Transkrypcja pełna: If you have an Anki, check the Ospen 1000.
+an: confidence=0.20Anki,: confidence=0.36check: confidence=0.22the: confidence=0.21Ospen: confidence=0.431000.: confidence=0.39
+Transkrypcja pełna: If you have a prophylactic, it checks very well.
+If: confidence=0.56a: confidence=0.47prophylactic,: confidence=0.49it: confidence=0.23checks: confidence=0.27very: confidence=0.19well.: confidence=0.34
+Transkrypcja pełna: Powinna spróbować oracji Panto-Frazola.
+Powinna: confidence=0.52Panto-Frazola.: confidence=0.40
+Transkrypcja pełna: If you have pressure, the pin will work.
+If: confidence=0.40have: confidence=0.50pressure,: confidence=0.36the: confidence=0.35pin: confidence=0.02will: confidence=0.25work.: confidence=0.26
+Transkrypcja pełna: Press "LOL" if you have a pressure.
+Press: confidence=0.46"LOL": confidence=0.34if: confidence=0.29have: confidence=0.43a: confidence=0.17pressure.: confidence=0.18
+Transkrypcja pełna: You should try the arm-and-neck curation.
+You: confidence=0.37the: confidence=0.23arm-and-neck: confidence=0.12curation.: confidence=0.51
+Transkrypcja pełna: If you have high cholesterol, Riddin will work out well.
+If: confidence=0.67Riddin: confidence=0.23will: confidence=0.42work: confidence=0.44out: confidence=0.34well.: confidence=0.58
+Transkrypcja pełna: powinnaś przyjmować romazic na wysoki cholesterol.
+powinnaś: confidence=0.36romazic: confidence=0.64
+Transkrypcja pełna: Na recepcie zapisz rosucart jakolwiek na wysoki cholesterol.
+recepcie: confidence=0.68rosucart: confidence=0.39jakolwiek: confidence=0.57
+Transkrypcja pełna: Najlepiej w twoim przypadku sprawdzi się Rosutrox.
+Transkrypcja pełna: Jeśli masz wysoki cholesterol dobrze sprawdza się rosufastatin medica valnej.
+dobrze: confidence=0.60rosufastatin: confidence=0.47valnej.: confidence=0.56
+Transkrypcja pełna: Powinnaś przyjmować rosferę na wysoki cholesterol.
+Transkrypcja pełna: Powinnaś przyjmować tagliktyny na cukrzycę typu II.
+tagliktyny: confidence=0.50II.: confidence=0.62
+Transkrypcja pełna: I'll write you a report, because it usually works well.
+I'll: confidence=0.56write: confidence=0.25you: confidence=0.42a: confidence=0.29report,: confidence=0.15well.: confidence=0.69
+Transkrypcja pełna: Najlepiej w Twoim przypadku sprawdzić Sucralfat.
+Sucralfat.: confidence=0.52
+Transkrypcja pełna: Przepiszem Ci sumometr, bo zwykle dobrze działa.
+Transkrypcja pełna: Powinnaś spróbować kuracji suwarbią.
+Transkrypcja pełna: Najlepiej w twoim przypadku sprawdzi się o syniardy.
+Transkrypcja pełna: Powinna spróbować kuracji trazodona.
+Powinna: confidence=0.59trazodona.: confidence=0.56
+Transkrypcja pełna: Przepisze Ci VigalXBio, bo zwykle dobrze działa.
+Ci: confidence=0.66VigalXBio,: confidence=0.48
+Transkrypcja pełna: przepiszę Ci Wigantol, bo zwykle dobrze działa.
+przepiszę: confidence=0.64Ci: confidence=0.52Wigantol,: confidence=0.67
+Transkrypcja pełna: Na recepcie zapiszę wigan tolettyn.
+wigan: confidence=0.17
+Transkrypcja pełna:  Na niedobór witaminy D przepiszę ci witaminę D3 Forte.
+: confidence=0.51Na: confidence=0.67ci: confidence=0.52Forte.: confidence=0.33
+Transkrypcja pełna: You can buy Vaptex Xig Duo, it should help.
+You: confidence=0.54Xig: confidence=0.16Duo,: confidence=0.59it: confidence=0.46
+Transkrypcja pełna: Przepiszę Ci zachron, bo zwykle dobrze działa.
+Ci: confidence=0.63
+Transkrypcja pełna: Powinnaś przyjmować serantę na wysoki cholesterol.
+Powinnaś: confidence=0.70serantę: confidence=0.63cholesterol.: confidence=0.60
+Transkrypcja pełna: Na recepcie zapiszę on z Orpidem jako lek na bezsenność.
+Na: confidence=0.52on: confidence=0.36Orpidem: confidence=0.65
+Transkrypcja pełna: Na bezsenność przepiszę ci z opikrą.
+bezsenność: confidence=0.70ci: confidence=0.51opikrą.: confidence=0.56
