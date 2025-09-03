@@ -12,12 +12,12 @@ This model was previously fine-tuned on a Polish medical corpus.
 
 ## Overview
 The goal of this project is to develop a Minimum Viable Product (MVP) of an Automatic Speech Recognition (ASR) system capable of recognizing the most common Polish drug names during medical interviews.  
-This project was carried out for the **Medwave** initiative, which aims to make doctor–patient interactions more patient-centered.
+This project was carried out for the [**Medwave**](https://www.linkedin.com/company/aimedwave/?originalSubdomain=pl) initiative, which aims to make doctor–patient interactions more patient-centered.
 
 ---
 
 ## Features
-- Recognizes more drug names than the base model.  
+- Recognizes more drug names than the base model (improved average wer).  
 - Provides scripts to calculate **word-level confidence scores**.  
 - Supports adding **custom context prompts** to improve recognition accuracy.  
 
