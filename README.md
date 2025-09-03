@@ -136,5 +136,3 @@ print(transcription)
 - Perform continuous evaluation and data enrichment using word-level confidence scores.
 - Experiment with different prompt strategies, context injection and usage of banned words for improved drug recognition.
 
-
-print("Transcription:", transcription)
